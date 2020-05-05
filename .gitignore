@@ -1,0 +1,7 @@
+apache_php/log/
+
+mysql/data/
+
+mysql/log/
+
+nginx/log/
