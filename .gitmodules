@@ -1,0 +1,3 @@
+[submodule "apache/data/wordpress-test"]
+	path = apache/data/wordpress-test
+	url = https://github.com/4LPH4BET/wordpress-test.git
