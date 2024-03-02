@@ -2,3 +2,4 @@ apache/log/
 apache/data/
 mysql/log/
 nginx/log/
+.DS_Store
